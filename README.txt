@@ -1,5 +1,4 @@
 Welcome to the ArcGIS Runtime SDK for Android!
-
 v100.14.1
 
 ----------------------------
